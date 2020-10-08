@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jobsearch/static/css/main.a6e981f3.chunk.css",
+    "main.js": "/jobsearch/static/js/main.e7cd5a04.chunk.js",
+    "main.js.map": "/jobsearch/static/js/main.e7cd5a04.chunk.js.map",
+    "runtime-main.js": "/jobsearch/static/js/runtime-main.cc7fb850.js",
+    "runtime-main.js.map": "/jobsearch/static/js/runtime-main.cc7fb850.js.map",
+    "static/js/2.e2c7657d.chunk.js": "/jobsearch/static/js/2.e2c7657d.chunk.js",
+    "static/js/2.e2c7657d.chunk.js.map": "/jobsearch/static/js/2.e2c7657d.chunk.js.map",
+    "index.html": "/jobsearch/index.html",
+    "precache-manifest.57284d02d9bfb0e5aa3b0525c603cbcb.js": "/jobsearch/precache-manifest.57284d02d9bfb0e5aa3b0525c603cbcb.js",
+    "service-worker.js": "/jobsearch/service-worker.js",
+    "static/css/main.a6e981f3.chunk.css.map": "/jobsearch/static/css/main.a6e981f3.chunk.css.map",
+    "static/js/2.e2c7657d.chunk.js.LICENSE.txt": "/jobsearch/static/js/2.e2c7657d.chunk.js.LICENSE.txt",
+    "static/media/search.css": "/jobsearch/static/media/backgroundImg.fc568113.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc7fb850.js",
+    "static/js/2.e2c7657d.chunk.js",
+    "static/css/main.a6e981f3.chunk.css",
+    "static/js/main.e7cd5a04.chunk.js"
+  ]
+}
