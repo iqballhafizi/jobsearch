@@ -40,6 +40,8 @@ function Joblist({ jobs }) {
       </div>
     );
   });
+  
+  jobList = jobList.length === 0 ? "No result found." : jobList;
   return <div className="job-wrapper">{jobList}</div>;
 }
 

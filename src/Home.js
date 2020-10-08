@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import Search from "./components/Search.js";
 import LocationFilter from "./components/LocationFilter.js";
 import Joblist from "./components/Joblist.js";
-import JobDetails from "./components/JobDetails.js";
+
 
 function Home() {
       // Declare a new state variable, which we'll call "jobList"
