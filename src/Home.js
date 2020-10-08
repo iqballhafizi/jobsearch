@@ -67,6 +67,7 @@ function Home() {
             handleFulltime={handleFulltime}
             handleCityChange={handleCityChange}
           />
+
         </div>
         <div class="col-md-8">
           <Joblist jobs={jobs} />
