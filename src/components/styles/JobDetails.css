@@ -1,0 +1,45 @@
+.job-title{
+    display: block;
+    overflow-wrap: break-word;
+
+}
+
+@media screen and (min-width: 768px){
+    .job-title{
+        display: flex;
+        align-items: center;
+    }
+    .job-type{
+       margin-left: 10px;
+    }
+}
+.job-type{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:2px;
+    min-width: fit-content;
+}
+
+.company-details-wrapper {
+    display: flex;
+}
+
+.company-details-wrapper img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.company-details .material-icons{
+    font-size: 18px;
+}
+
+.company-location{
+    display: flex;
+    align-items: center;
+}
+
+.job-detail-side-col{
+    overflow-wrap: break-word;
+}
